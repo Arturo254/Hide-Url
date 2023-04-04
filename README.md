@@ -22,3 +22,20 @@ Disfraza tu url maliciosa para que parezca real.
 
 
 [![Picsart-23-04-04-12-48-51-761.png](https://i.postimg.cc/mDJbGtyv/Picsart-23-04-04-12-48-51-761.png)](https://postimg.cc/2bdpQjJG)
+
+#  INSTALACIÓN 
+
+```
+pkg install git 
+
+git clone https://github.com/Arturo254/Hide-Url 
+
+cd Hide-Url 
+
+chmod 777 *
+
+bash Hide-Url.sh
+
+```
+
+
